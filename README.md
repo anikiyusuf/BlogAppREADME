@@ -11,7 +11,7 @@ To get started we need to ensure that we have nodejs running on our  local termi
 
 ***Let dive deep .***
 
-![MVC pattern](mvc%20pattern.jpg)
+![MVC pattern](mvcpattern.jpg)
 ###### This project was developed using the MVC  design pattern .By  creating  the Models folder , Routes folder, Controller folder. With  some  folders and some single file, which i will  explain below   .This project has two main route the blog route and the user route. 
 
 
