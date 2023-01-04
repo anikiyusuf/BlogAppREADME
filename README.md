@@ -1,7 +1,7 @@
 ![Express](download.jpg)
 ## BLOG APP
 
-This project is a simple Backed  Application  using express a nodejs framework. That allows users to signup , login , create blog , add blog , update blog and deletee blogs . Blogs can be save in two different form on this app (draft or published). User can get the blog endpoint, either the user is been login or not. 
+This project is a simple Backed  Application  using express a nodejs framework. That allows users to signup , login , create blog , add blog , update blog and delete blogs . Blogs can be save in two different form on this app (draft or published). User can get the blog endpoint, either the user is been login or not. 
 
 #### Getting started:
 To get started we need to ensure that we have nodejs running on our  local terminal . If we don't have  nodejs on our local machine ,  we need to install it by downloading the latest version of it. 
@@ -16,7 +16,7 @@ To get started we need to ensure that we have nodejs running on our  local termi
 
 
 
-The models folder contains the blogmodel file and usermodel file. Where i created  their  Schemas and exported them to the controller folder. The blogmodel Schema conatains  the blog title , description , author, state[draft or publish], read count, and reading time. 
+The models folder contains the blogmodel file and usermodel file. Where i created  their  Schemas and exported them to the controller folder. The blogmodel Schema contains  the blog title , description , author, state[draft or publish], read count, and reading time. 
 
 The Controllers folder contains the blogController file and userController file . Where i imported the models files to . I created the CRUD method in the controller file. 
 
